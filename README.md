@@ -1,3 +1,5 @@
-MyCanvas
+canvas
 
-Feel free to edit canvaas
+Feel free to use and edit canvas
+
+:)
